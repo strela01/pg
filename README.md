@@ -1,1 +1,1 @@
-# pg
+print("Hello world")
