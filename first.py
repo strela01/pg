@@ -1,1 +1,1 @@
-#to je prvni uloha
+#to je prvni pokus
