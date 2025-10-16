@@ -43,4 +43,4 @@ if __name__ == "__main__":
     text = cislo_text(cislo)
     print(text)
 
-    
+
